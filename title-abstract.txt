@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+An Investigation on Mitigating Airline Pricing Model's Bias
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
